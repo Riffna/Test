@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 721430609 ~ s92070609 -->
+<Products>
+    <Product>
+        <ProductID>01</ProductID>
+        <Year_of_Manufacture>2022</Year_of_Manufacture>
+        <ProdDescription>Pro. A</ProdDescription>
+        <ProductPrice>50.00</ProductPrice>
+        <QtyAvailable>60</QtyAvailable>
+    </Product> 
+	<Product>
+        <ProductID>02</ProductID>
+        <Year_of_Manufacture>2022</Year_of_Manufacture>
+        <ProdDescription>Pro. B<rodDescription>
+        <ProductPrice>100.00</ProductPrice>
+        <QtyAvailable>50</QtyAvailable>
+    </Product>
+	<Product>
+        <ProductID>03</ProductID>
+        <Year_of_Manufacture>2023</Year_of_Manufacture>
+        <ProdDescription>Pro C</ProdDescription>
+        <ProductPrice>150.00</ProductPrice>
+        <QtyAvailable>40</QtyAvailable>
+    </Product>
+	<Product>
+        <ProductID>04</ProductID>
+        <Year_of_Manufacture>2023</Year_of_Manufacture>
+        <ProdDescription>Pro D</ProdDescription>
+        <ProductPrice>200.00</ProductPrice>
+        <QtyAvailable>30</QtyAvailable>
+    </Product>
+	<Product>
+        <ProductID>05</ProductID>s
+        <Year_of_Manufacture>2021</Year_of_Manufacture>
+        <ProdDescription>Pro E</ProdDescription>
+        <ProductPrice>250.00</ProductPrice>
+        <QtyAvailable>30</QtyAvailable>
+    </Product>
+    
+</Products>

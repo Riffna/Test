@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 721430609 ~ s92070609 -->
+<Patients>
+  <Patient>
+    <PatientID>3</PatientID>
+    <Name>John Doe</Name>
+    <Initials>JD</Initials>
+    <Age>30</Age>
+    <Address>123 Main Street</Address>
+    <Telephone>0775145678</Telephone>
+    <BloodType>A+</BloodType>
+    <Allergies>Peanuts</Allergies>
+  </Patient>
+  
+<Patient>
+    <PatientID>4</PatientID>
+    <Name>Vimala</Name>
+    <Initials>S</Initials>
+    <Age>25</Age>
+    <Address>456 cross Street</Address>
+    <Telephone>0771234567</Telephone>
+    <BloodType>B+</BloodType>
+    <Allergies>Peanuts, Penicillin</Allergies>
+  </Patient>
+</Patients>
